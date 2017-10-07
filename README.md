@@ -1,5 +1,7 @@
-hello_app
+#Ruby on Rails Tutorial
 
-Ruby 2.3.3
+## "Hello, World!"
 
-This is a simple "Hello World!" project aimed at learning Rails.
+This is the first application for the 
+[*Ruby on Rails Tutorial*](http://www.railstutorial.org/)
+by [Michael Hartl](http://www.michaelhartl.com/).
